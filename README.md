@@ -13,11 +13,11 @@ Deployed on DigitalOcean
 
 
 
-##Try it here!
+## Try it here!
 [Map2Campus.com](http://www.map2campus.com)
 
 
-##TODO
+## TODO
 
 * Backend database
 * Proper submission page

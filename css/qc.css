@@ -1,0 +1,70 @@
+html {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  background-color: #FFF;
+  color: #011638;
+  font-family: 'Mali', cursive;
+}
+
+img {
+  width: 400px;
+  height: 500px;
+  margin: auto;
+
+}
+
+.qcCampus{
+  display: block;
+  margin: 0 auto;
+}
+
+.wrapper {
+  margin: 0 auto;
+  width:80%
+  /* background-color: red; */
+}
+
+.choices {
+  text-align: center;
+  /* background-color: green; */
+
+}
+
+
+.button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    padding: 0 0 20px 0;
+}
+
+.btn-light {
+   margin: 15px 32px;
+   text-align: center;
+}
+
+.img-thumbnail {
+  width: 400px;
+  height: 400px;
+  margin: 0 auto;
+}
+
+a {
+  text-decoration: none;
+  color: #000;
+}
+
+a:hover {
+  text-decoration: none;
+  color: #000;
+}
+
+.header {
+  text-align: center;
+}
